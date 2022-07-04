@@ -1,4 +1,4 @@
-# project-32-Blog-laravue-api
+# project-Blog-laravue-api
 
 ## Description
 
