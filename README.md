@@ -2,13 +2,15 @@
 
 ## Description
 
-This Application Programming Interface (A.P.I) is design with Laravel to serve Post datas after receiving request from the Blog laravue interface made with Vue.js. I implement only read operation to show the post contents on blog interface. I use Postman to test my endpoints.
+This Application Programming Interface (A.P.I) is designed with Laravel to serve Post datas after receiving request from the Blog laravue user interface made with Vue.js. I implement only read operation to show the post contents on blog interface. I use Postman to test my endpoints.
 
 ## Stack
 
 Laravel, MySQL
 
 ## Launch
+
+this API endpoints is called on the Blog laravue UI :
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
